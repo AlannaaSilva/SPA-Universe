@@ -1,0 +1,32 @@
+# Diretório de dependências do Node.js
+node_modules/
+
+# Arquivo de lock do npm (pode incluir, dependendo da sua estratégia de gerenciamento de dependências)
+package-lock.json
+
+# Diretório de logs
+logs
+*.log
+
+# Arquivo de ambiente local
+.env
+
+# Diretório de cobertura de testes
+coverage/
+
+# Diretório de builds
+dist/
+build/
+
+# Arquivos temporários do sistema
+*.swp
+*.swo
+*.bak
+*.tmp
+*.temp
+
+# Arquivos de configuração de editor (opcional)
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
